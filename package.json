@@ -4,6 +4,8 @@
   "description": "Backend Server for Sex Education Chatbot",
   "main": "index.js",
   "scripts": {
+    "start": "node index.js",
+    "dev": "nodemon index.js",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "repository": {
@@ -15,5 +17,12 @@
   "bugs": {
     "url": "https://github.com/vishalxtyagi/teensage/issues"
   },
-  "homepage": "https://github.com/vishalxtyagi/teensage#readme"
+  "homepage": "https://github.com/vishalxtyagi/teensage#readme",
+  "dependencies": {
+    "express": "^4.18.2",
+    "mysql2": "^3.1.2"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.20"
+  }
 }
