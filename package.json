@@ -1,0 +1,19 @@
+{
+  "name": "teensage",
+  "version": "1.0.0",
+  "description": "Backend Server for Sex Education Chatbot",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/vishalxtyagi/teensage.git"
+  },
+  "author": "Vishal Tyagi",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/vishalxtyagi/teensage/issues"
+  },
+  "homepage": "https://github.com/vishalxtyagi/teensage#readme"
+}
